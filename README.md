@@ -38,7 +38,7 @@ multi-token-erc1155-demo/ │ ├── contracts/ │   └── MultiToken.so
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/multi-token-erc1155-demo.git
+git clone https://github.com/abdoulhameed/multi-token-erc1155-demo.git
 cd multi-token-erc1155-demo
 
 Install dependencies:
