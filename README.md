@@ -1,6 +1,6 @@
 # MultiToken ERC-1155 Demo
 
-A professional ERC-1155 Multi-Token smart contract built with **Solidity** and **OpenZeppelin**.  
+An ERC-1155 Multi-Token smart contract built with **Solidity** and **OpenZeppelin**.  
 This project demonstrates multi-token minting, batch transfers, supply limits, and proper access control.
 
 ---
